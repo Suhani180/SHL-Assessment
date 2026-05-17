@@ -12,8 +12,6 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.routes.health import router as health_router
 from app.api.routes.chat import router as chat_router
-from app.dependencies import initialize_services
-
 # -----------------------------------------------------
 # LOGGING
 # -----------------------------------------------------
@@ -33,15 +31,7 @@ logger = logging.getLogger(__name__)
 @asynccontextmanager
 async def lifespan(app: FastAPI):
 
-    logger.info("Initializing services...")
-
-    initialize_services()
-
-    logger.info("Services initialized.")
-
     yield
-
-    logger.info("Application shutdown.")
 
 
 # -----------------------------------------------------

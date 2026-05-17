@@ -24,7 +24,12 @@ class EmbeddingGenerator:
     ):
         logger.info(f"Loading embedding model: {model_name}")
 
-        self.model = SentenceTransformer(model_name)
+        self.model = SentenceTransformer(
+            model_name,
+            device="cpu"
+        )
+
+
 
     def embed_texts(
         self,
