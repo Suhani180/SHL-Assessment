@@ -7,9 +7,9 @@ from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
 
-    GEMINI_API_KEY: str
+    NVIDIA_API_KEY: str
 
-    MODEL_NAME: str = "gemini-1.5-flash"
+    MODEL_NAME: str = "meta/llama-3.1-8b-instruct"
 
     TOP_K: int = 10
 
