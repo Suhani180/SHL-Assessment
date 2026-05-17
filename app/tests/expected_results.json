@@ -1,0 +1,60 @@
+{
+    "Hiring Java backend developer": [
+        "Java 8 (New)",
+        "Core Java (Entry Level)",
+        "OPQ32r"
+    ],
+
+    "Hiring Python developer with leadership skills": [
+        "Python Assessment",
+        "OPQ32r",
+        "Leadership Assessment"
+    ],
+
+    "Need personality assessment for managers": [
+        "OPQ32r",
+        "Motivation Questionnaire"
+    ],
+
+    "Hiring frontend React developer": [
+        "JavaScript Assessment",
+        "Front-End Development Assessment",
+        "OPQ32r"
+    ],
+
+    "Need cognitive and aptitude testing": [
+        "General Ability Screen",
+        "Verify Interactive G+",
+        "Numerical Reasoning Test"
+    ],
+
+    "Hiring customer support executive": [
+        "Customer Service Assessment",
+        "OPQ32r",
+        "Communication Skills Assessment"
+    ],
+
+    "Need communication and behavioral assessments": [
+        "OPQ32r",
+        "Communication Skills Assessment",
+        "Motivation Questionnaire"
+    ],
+
+    "Hiring data analyst with SQL and analytical skills": [
+        "SQL Assessment",
+        "Numerical Reasoning Test",
+        "General Ability Screen"
+    ],
+
+    "Hiring sales executive with personality evaluation": [
+        "Sales Assessment",
+        "OPQ32r",
+        "Motivation Questionnaire"
+    ],
+
+    "Need software engineer assessment with problem solving": [
+        "General Ability Screen",
+        "Core Java (Entry Level)",
+        "Python Assessment"
+    ]
+}

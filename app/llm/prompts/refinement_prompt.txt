@@ -1,0 +1,14 @@
+The user refined or updated hiring requirements.
+
+Updated hiring requirements:
+{query}
+
+Updated SHL assessments:
+{retrieved_assessments}
+
+Your task:
+- Explain how the updated recommendations align with the new constraints.
+- Mention newly included requirements.
+- Stay concise and recruiter-friendly.
+- Use ONLY the provided SHL assessments.
+- Do NOT hallucinate information.

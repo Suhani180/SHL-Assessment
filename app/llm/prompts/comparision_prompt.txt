@@ -1,0 +1,21 @@
+Compare the following SHL assessments.
+
+Assessment 1:
+{assessment_1}
+
+Assessment 2:
+{assessment_2}
+
+Your task:
+Compare:
+- purpose
+- skills measured
+- ideal hiring scenarios
+- strengths
+- differences
+
+Rules:
+- Use ONLY provided catalog information.
+- Never hallucinate.
+- Be concise and recruiter-friendly.
+- Stay within SHL scope.

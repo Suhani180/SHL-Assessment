@@ -1,0 +1,21 @@
+The user's hiring request is too vague.
+
+Conversation:
+{conversation}
+
+Your task:
+Ask ONE concise clarification question.
+
+Focus on missing information such as:
+- job role
+- seniority
+- technical skills
+- communication requirements
+- personality requirements
+- leadership requirements
+
+Rules:
+- Do NOT recommend assessments yet.
+- Keep the response under 40 words.
+- Stay within SHL assessment recommendation scope.
+- Be concise and professional.
